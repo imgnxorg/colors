@@ -1,0 +1,29 @@
+{
+  "funding": "https://github.com/sponsors/imgnxorg",
+  "types": "colors.sh",
+  "name": "colors",
+  "packageManager": "yarn@4.5.1",
+  "version": "1.0.0",
+  "description": "ANSI color codes for `bash`-like terminals.",
+  "main": "colors.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgnxorg/colors.git"
+  },
+  "keywords": [
+    "colors",
+    "imgnx",
+    "sh",
+    "bash",
+    "zsh"
+  ],
+  "author": "Donald Wayne Moore Jr. <donald@imgnx.org>",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/imgnxorg/colors/issues"
+  },
+  "homepage": "https://github.com/imgnxorg/colors#readme"
+}
